@@ -22,7 +22,9 @@
     "express": "^4.17.1",
     "jest": "^27.4.3",
     "node-dom": "^0.1.0",
-    "nodemon": "^2.0.15",
     "pg-promise": "^10.11.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
